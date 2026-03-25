@@ -18,5 +18,5 @@
 - [ ] Reach a [e.g., 4-star] rating on HackerRank
 
 ## 📬 Connect with Me
-- **LinkedIn:** [Insert Link]
-- **Email:** [Insert Email]
+- **LinkedIn:** [www.linkedin.com/in/sri-dharsan-61856a382]
+- **Email:** [sridharsan2305@gmail.com]
